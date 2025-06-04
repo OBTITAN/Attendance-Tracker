@@ -1,0 +1,27 @@
+[
+  {
+    "code": "CS101",
+    "name": "Numerical Methods",
+    "lecturer": "Dr. Smith"
+  },
+  {
+    "code": "CS102",
+    "name": "Data Structures",
+    "lecturer": "Prof. Johnson"
+  },
+  {
+    "code": "CS201",
+    "name": "Algorithms",
+    "lecturer": "Dr. Williams"
+  },
+  {
+    "code": "CS202",
+    "name": "Database Systems",
+    "lecturer": "Prof. Davis"
+  },
+  {
+    "code": "CS301",
+    "name": "Software Engineering",
+    "lecturer": "Dr. Brown"
+  }
+]

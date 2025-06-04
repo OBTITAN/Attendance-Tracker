@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "courseCode": "CS101",
+    "courseName": "Numerical Methods",
+    "timestamp": "2025-06-03T16:09:44.841Z",
+    "sessionType": "Lecture",
+    "status": "Present",
+    "verificationCode": "5281",
+    "studentId": "S12345"
+  },
+  {
+    "id": "2",
+    "courseCode": "CS101",
+    "courseName": "Numerical Methods",
+    "timestamp": "2025-06-02T16:09:44.841Z",
+    "sessionType": "Lab",
+    "status": "Late",
+    "verificationCode": "1234",
+    "studentId": "S12346"
+  },
+  {
+    "id": "3",
+    "courseCode": "CS102",
+    "courseName": "Data Structures",
+    "timestamp": "2025-06-03T16:09:44.841Z",
+    "sessionType": "Tutorial",
+    "status": "Present",
+    "verificationCode": "5678",
+    "studentId": "S12347"
+  },
+  {
+    "id": "4",
+    "courseCode": "CS102",
+    "courseName": "Data Structures",
+    "timestamp": "2025-06-01T16:09:44.841Z",
+    "sessionType": "Lecture",
+    "status": "Excused",
+    "verificationCode": "9876",
+    "studentId": "S12348"
+  },
+  {
+    "id": "5",
+    "courseCode": "CS101",
+    "courseName": "Numerical Methods",
+    "timestamp": "2025-05-31T16:09:44.841Z",
+    "sessionType": "Lecture",
+    "status": "Present",
+    "verificationCode": "4321",
+    "studentId": "S12349"
+  },
+  {
+    "studentId": "22309283",
+    "courseCode": "CS101",
+    "courseName": "Numerical Methods",
+    "sessionType": "Lab",
+    "status": "Late",
+    "verificationCode": "1969",
+    "timestamp": "2025-06-04T01:18:06.000Z",
+    "id": "1748999886021"
+  }
+]
